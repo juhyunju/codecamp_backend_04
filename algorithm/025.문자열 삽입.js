@@ -1,10 +1,12 @@
-let str = "1"
+let str = ""
 function makeNumber(num){
-    for( i = 2; i<=num; i++ ){
-        str = str +'-' + i 
+    for( i = 1; i<=num; i++ ){
+        str+=i  
+        if(i!==num){
+            str+="-"
+        }
     }
     console.log(str)
 }
 
 makeNumber(5)
-makeNumber(7)
