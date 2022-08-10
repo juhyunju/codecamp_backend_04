@@ -1,0 +1,98 @@
+bucket: 'juju-storage',
+2022-08-10 17:11:28.669 JST
+
+ju-4
+
+278y0wi7axqx
+ contentType: 'image/jpeg',
+2022-08-10 17:11:28.669 JST
+
+ju-4
+
+278y0wi7axqx
+ crc32c: 'uy3Eaw==',
+2022-08-10 17:11:28.669 JST
+
+ju-4
+
+278y0wi7axqx
+ etag: 'CNG9u8Tpu/kCEAE=',
+2022-08-10 17:11:28.669 JST
+
+ju-4
+
+278y0wi7axqx
+ generation: '1660119088553681',
+2022-08-10 17:11:28.669 JST
+
+ju-4
+
+278y0wi7axqx
+ id: 'juju-storage/1.jpeg/1660119088553681',
+2022-08-10 17:11:28.669 JST
+
+ju-4
+
+278y0wi7axqx
+ kind: 'storage#object',
+2022-08-10 17:11:28.669 JST
+
+ju-4
+
+278y0wi7axqx
+ md5Hash: 'WpBhK1F/aty+bjb/C9F6tQ==',
+2022-08-10 17:11:28.669 JST
+
+ju-4
+
+278y0wi7axqx
+ mediaLink: 'https://www.googleapis.com/download/storage/v1/b/juju-storage/o/1.jpeg?generation=1660119088553681&alt=media',
+2022-08-10 17:11:28.669 JST
+
+ju-4
+
+278y0wi7axqx
+ metageneration: '1',
+2022-08-10 17:11:28.669 JST
+
+ju-4
+
+278y0wi7axqx
+ name: '1.jpeg',
+2022-08-10 17:11:28.669 JST
+
+ju-4
+
+278y0wi7axqx
+ selfLink: 'https://www.googleapis.com/storage/v1/b/juju-storage/o/1.jpeg',
+2022-08-10 17:11:28.669 JST
+
+ju-4
+
+278y0wi7axqx
+ size: '15077',
+2022-08-10 17:11:28.669 JST
+
+ju-4
+
+278y0wi7axqx
+ storageClass: 'STANDARD',
+2022-08-10 17:11:28.669 JST
+
+ju-4
+
+278y0wi7axqx
+ timeCreated: '2022-08-10T08:11:28.561Z',
+
+2022-08-10 17:11:28.669 JST
+
+ju-4
+
+278y0wi7axqx
+ timeStorageClassUpdated: '2022-08-10T08:11:28.561Z',
+2022-08-10 17:11:28.669 JST
+
+ju-4
+
+278y0wi7axqx
+ updated: '2022-08-10T08:11:28.561Z'
