@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "emerald-lattice-358105",
+  "private_key_id": "e6172dfe35f7e131caa930b5bb97d88267cdec0b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDajq3E+kDAuabc\njCIo+v+mv7/IjfD8UDjFlrcG7EWx3IsSalO9bo/iIQCLCH44VVsO8Sjkxq/GzL89\ne99MVMcGc5Rq6M0YFy+fyRx+OLKo22nxMYC5X3p7fWvu23S3xkaUAk9cf2RFmpms\nyEz2sx/VnhmyWsyVC4z7JVPkYvfNRRgE3zSMRfA4T7reF+zHDnTqJBUOtk6ESLco\nsESemyTdGUTOGomek8tysXc816sQAK5dcl+FMiAwwR4PtHEEbF0MvLJC2k6o9nn9\nSSUQTxo6E4XN9mokMk5F90RFhSExzwyE+xBrtcCu9BfW8ZJa+ux6HUF1U855CP+g\n87BcSV3fAgMBAAECggEAVnOUufNxlKp7HgdSZdpvMMLtdkPrPKrw4futd1ATe3jt\nDAJCEI8A3CZIxDY+U0M0KzNqhSAwnJcV2Ji8qcFpHpyuayGeKvbU8EQJgMYlqZRt\nEiqOLAVf+iQRAyEMyLrl5RsK0GBVxhCS1B1BEF6na4THzlyLSzOP9zH7Pr6FHc0I\n9o3KVwRhRgXeWUjcN0f79X5xx028PZXRAqgJNi6+1fIgdfmrbt+arLwMlQ5vZ7KP\na+R8z6usRjByywhhIOV8t7Vp3W7We+47fZXYCFPh7jYpKA9UkvAymHr0Xbc4tHFb\nOh7x43KQ6n/SwO6OC5BcVdQt7m5XPysLbaZAtPJxvQKBgQD6S5A6avLH+67pD6AB\nbG/cUblDRKhMSMHuRjwE4bsLbHDTKl2rnQ1Qxv2+x1MeLYC9Us/4g9hNOjcOmoCB\nNXKHE/cLxkpdphIY8i0Q0lORMK3OpI2bfbvSc1FVKVqFJIPDnYg6nyyVEd9xnB+W\nLdoPx5KlMjXbr5UAnWp+u6MIxQKBgQDfie3/pbq+yQ1iSgjtSwZLFIPZt3RidBJG\nqle7DWSxkhsOd4Ae6lAx1nMZVrjFVITv75ydDP0s5yL/eFTkx7TlVzFN4Ll6Nv3X\n1EOv97EQVMJTlTjd4ArgzM+6OL6TWGY+D7QC7gNjJrB5A3tBmk9DAzoJNtquf/Bt\ngrO/X9POUwKBgQCyPE8HmpMqn+ptYsgRW3PI05V29pRWRlV7ZR5mZ4x31Q/+/6NW\niu8pf5rAWVayHbsYlrksgk7sp7D/QDyURkg5MplxFBJu38zxYLuAyBXkRWLvzTRd\n7spqUd4wI9OnDlqaWTria+kmemTAlWnU2u/23qpp4viBaWZU2sQ0XU/69QKBgFcQ\n7AgkzuW8fWAJIgz6qcrYhLpqAATQ3MV1V5Jdlxiqpasu1FI2RWID+vSlmHYTg2vI\n0iFBi+LPbAxBHB+3wTeKjIOewd9eR+Smom6JdQe9W6sedfXFa7c/TrFjpKbTSY9m\nomB5wAwAZ7/aoUleBv085n/sQ6Sv5D9jJwulEWRNAoGAO9+CMnBK4gCTIJ+oKH2c\nxF8ilSKR6+qp6abOdPYYmAqaKuwTKMIxnlZEclU6d/mWYUCBH4Ga8ZExoh6QiB2/\nEenq4RZgEwOmHYdbXARuPNXE/Tab5Ezcd6O1uXkodBuM7Ye9pr/ASsgkszIHzG15\ndX+EtAE2EocL1jlQiVVG7ZA=\n-----END PRIVATE KEY-----\n",
+  "client_email": "bigquery@emerald-lattice-358105.iam.gserviceaccount.com",
+  "client_id": "117092821312896130027",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/bigquery%40emerald-lattice-358105.iam.gserviceaccount.com"
+}
