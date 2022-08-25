@@ -1,0 +1,24 @@
+steps:
+  # 1단계 => docker-compose -f docker-compose.yaml build
+  - name: docker/compose:1.29.0
+    args:
+      - -f
+      - class/deploy-with-docker/backend/docker-compose.yaml
+      - build
+  # 2단계 => docker-compose -f docker-compose.yaml push
+  - name: docker/compose:1.29.0
+    args:
+      - -f
+      - class/deploy-with-docker/backend/docker-compose.yaml
+      - push
+
+  # 3단계 => kubectl set image
+  - name: 'gcr.io/cloud-builders/kubectl'
+    args:
+      - set
+      - image
+      - deployment/mybackend04-nestjs
+      - my-backend-sha256-1=asia.gcr.io/emerald-lattice-358105/my-backend:1.8
+    env:
+      - CLOUDSDK_COMPUTE_ZONE=asia-northeast3
+      - CLOUDSDK_CONTAINER_CLUSTER=ju-cluster-1

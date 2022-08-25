@@ -1,0 +1,46 @@
+<html>
+    <body></body>
+</html>
+<script>
+    function buyCoffe(
+        coffeeName,
+        price,
+        quantity,
+        callback,
+        callback22,
+        callback3
+    ) {
+        //커피를 사는 행위
+        console.log(`${coffeeName}를 ${quantity}개 구입하려고합니다.`);
+        console.log(`${coffeeName} 한 개 ${price}원 입니다.`);
+
+        setTimeout(() => {
+            //return price * quantity
+            callback(quantity);
+            callback22(price * quantity);
+            callback3(coffeeName);
+        }, 1000);
+    }
+
+    // buyCoffe('아메리카노',5000,3)
+
+    function pay(money) {
+        // 커피값 계산결과 출력 함수
+        console.log(money, "원을 지불하였슴다");
+    }
+
+    function quantity(num) {
+        //주문 수량출력 함수
+        console.log(`주문하신 수량은, ${num} 개 입니다.`);
+    }
+
+    function pay(money) {
+        // 커피값 계산결과 출력 함수
+        console.log(money, "원을 지불하였슴다");
+    }
+    function coffeeName(name) {
+        console.log(`이거는 , ${name} 입니다.`);
+    }
+
+    buyCoffe("아메리카노", 5000, 3, quantity, pay, coffeeName);
+</script>
