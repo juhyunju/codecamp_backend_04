@@ -17,7 +17,7 @@ steps:
     args:
       - set
       - image
-      - deployment/mybackend04-nestjs
+      - deployment/mybeckend04-nestjs
       - my-backend-sha256-1=asia.gcr.io/emerald-lattice-358105/my-backend:1.8
     env:
       - CLOUDSDK_COMPUTE_ZONE=asia-northeast3
